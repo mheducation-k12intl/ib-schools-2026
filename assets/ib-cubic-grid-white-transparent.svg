@@ -1,0 +1,390 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1024" width="1280" height="1024" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3NTI5ZGEwOC0xMTg4LTRlNWYtYTUxYS1lN2U4MjdjOWNlOTUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaA8P6lZGFEnCsrIocCOT408AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozNmJhMTQ3Zi0yNTlkLTRlOGMtOTVhYi03ZTVmNWM0MmYzOWZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoC8fTemcxJSUP0dBMo9Z1rAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggd7oR7SIzPQepxHzjwPpMKUkmL/RYijcb+Yc2rvmf0sOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaI01XyxS9eZSbAlk8koCBKcAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCD7kGm0XpSJ2HVIK4Du5yZ6HC7X78mmBctRcN3PAhMX52RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiaZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjc1MjlkYTA4LTExODgtNGU1Zi1hNTFhLWU3ZTgyN2M5Y2U5NS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjYwYWVjYjUzLTYwMGMtNDA1Yi1hNjZjLTM1ZjJiYTM0OGJkNXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCB3uhHtIjM9B6nEfOPA+kwpSSYv9FiKNxv5hzau+Z/Sw6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggsWbHH3kcTIGzmUvY8crNRptWlBk2k91hymK7ZLrmUv+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggGcmXnyiF3Jp7UbFvsEKHakvq6NcgOEQ33xlxAz9GE/N0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQNxkYAnbVR/wcmGkpP8FHpCZT5DwIQUUrhiun+gFPD9halV5u8emEunxOTTpcRm2l4AozSwj7G5Ld4tnFOIjiMA=</c2pa:manifest></metadata>
+  
+  <g>
+    <g>
+      <g>
+        <polyline points="40 93.82 185.45 93.82 185.45 239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="221.82 202.91 76.36 202.91 76.36 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="221.82" y1="57.45" x2="185.45" y2="93.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="76.36" y1="202.91" x2="40" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="76.36 57.45 221.82 57.45 221.82 202.91 185.45 239.27 40 239.27 40 93.82 76.36 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="185.45 93.82 330.91 93.82 330.91 239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="367.27 202.91 221.82 202.91 221.82 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="367.27" y1="57.45" x2="330.91" y2="93.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="221.82" y1="202.91" x2="185.45" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="221.82 57.45 367.27 57.45 367.27 202.91 330.91 239.27 185.45 239.27 185.45 93.82 221.82 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="40 239.27 185.45 239.27 185.45 384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="221.82 348.36 76.36 348.36 76.36 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="221.82" y1="202.91" x2="185.45" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="76.36" y1="348.36" x2="40" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="76.36 202.91 221.82 202.91 221.82 348.36 185.45 384.73 40 384.73 40 239.27 76.36 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="185.45 239.27 330.91 239.27 330.91 384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="367.27 348.36 221.82 348.36 221.82 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="367.27" y1="202.91" x2="330.91" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="221.82" y1="348.36" x2="185.45" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="221.82 202.91 367.27 202.91 367.27 348.36 330.91 384.73 185.45 384.73 185.45 239.27 221.82 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="330.91 93.82 476.36 93.82 476.36 239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="512.73 202.91 367.27 202.91 367.27 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="512.73" y1="57.45" x2="476.36" y2="93.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="367.27" y1="202.91" x2="330.91" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="367.27 57.45 512.73 57.45 512.73 202.91 476.36 239.27 330.91 239.27 330.91 93.82 367.27 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="476.36 93.82 621.82 93.82 621.82 239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="658.18 202.91 512.73 202.91 512.73 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="658.18" y1="57.45" x2="621.82" y2="93.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="512.73" y1="202.91" x2="476.36" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="512.73 57.45 658.18 57.45 658.18 202.91 621.82 239.27 476.36 239.27 476.36 93.82 512.73 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="330.91 239.27 476.36 239.27 476.36 384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="512.73 348.36 367.27 348.36 367.27 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="512.73" y1="202.91" x2="476.36" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="367.27" y1="348.36" x2="330.91" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="367.27 202.91 512.73 202.91 512.73 348.36 476.36 384.73 330.91 384.73 330.91 239.27 367.27 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="476.36 239.27 621.82 239.27 621.82 384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="658.18 348.36 512.73 348.36 512.73 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="658.18" y1="202.91" x2="621.82" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="512.73" y1="348.36" x2="476.36" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="512.73 202.91 658.18 202.91 658.18 348.36 621.82 384.73 476.36 384.73 476.36 239.27 512.73 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="621.82 93.82 767.27 93.82 767.27 239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="803.64 202.91 658.18 202.91 658.18 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="803.64" y1="57.45" x2="767.27" y2="93.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="658.18" y1="202.91" x2="621.82" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="658.18 57.45 803.64 57.45 803.64 202.91 767.27 239.27 621.82 239.27 621.82 93.82 658.18 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="767.27 93.82 912.73 93.82 912.73 239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="949.09 202.91 803.64 202.91 803.64 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="949.09" y1="57.45" x2="912.73" y2="93.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="803.64" y1="202.91" x2="767.27" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="803.64 57.45 949.09 57.45 949.09 202.91 912.73 239.27 767.27 239.27 767.27 93.82 803.64 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="621.82 239.27 767.27 239.27 767.27 384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="803.64 348.36 658.18 348.36 658.18 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="803.64" y1="202.91" x2="767.27" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="658.18" y1="348.36" x2="621.82" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="658.18 202.91 803.64 202.91 803.64 348.36 767.27 384.73 621.82 384.73 621.82 239.27 658.18 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="767.27 239.27 912.73 239.27 912.73 384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="949.09 348.36 803.64 348.36 803.64 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="949.09" y1="202.91" x2="912.73" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="803.64" y1="348.36" x2="767.27" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="803.64 202.91 949.09 202.91 949.09 348.36 912.73 384.73 767.27 384.73 767.27 239.27 803.64 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="912.73 93.82 1058.18 93.82 1058.18 239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="1094.55 202.91 949.09 202.91 949.09 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="1094.55" y1="57.45" x2="1058.18" y2="93.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="949.09" y1="202.91" x2="912.73" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="949.09 57.45 1094.55 57.45 1094.55 202.91 1058.18 239.27 912.73 239.27 912.73 93.82 949.09 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="1058.18 93.82 1203.64 93.82 1203.64 239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="1240 202.91 1094.55 202.91 1094.55 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="1240" y1="57.45" x2="1203.64" y2="93.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="1094.55" y1="202.91" x2="1058.18" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="1094.55 57.45 1240 57.45 1240 202.91 1203.64 239.27 1058.18 239.27 1058.18 93.82 1094.55 57.45" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="912.73 239.27 1058.18 239.27 1058.18 384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="1094.55 348.36 949.09 348.36 949.09 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="1094.55" y1="202.91" x2="1058.18" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="949.09" y1="348.36" x2="912.73" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="949.09 202.91 1094.55 202.91 1094.55 348.36 1058.18 384.73 912.73 384.73 912.73 239.27 949.09 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="1058.18 239.27 1203.64 239.27 1203.64 384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="1240 348.36 1094.55 348.36 1094.55 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="1240" y1="202.91" x2="1203.64" y2="239.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="1094.55" y1="348.36" x2="1058.18" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="1094.55 202.91 1240 202.91 1240 348.36 1203.64 384.73 1058.18 384.73 1058.18 239.27 1094.55 202.91" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="40 384.73 185.45 384.73 185.45 530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="221.82 493.82 76.36 493.82 76.36 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="221.82" y1="348.36" x2="185.45" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="76.36" y1="493.82" x2="40" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="76.36 348.36 221.82 348.36 221.82 493.82 185.45 530.18 40 530.18 40 384.73 76.36 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="185.45 384.73 330.91 384.73 330.91 530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="367.27 493.82 221.82 493.82 221.82 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="367.27" y1="348.36" x2="330.91" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="221.82" y1="493.82" x2="185.45" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="221.82 348.36 367.27 348.36 367.27 493.82 330.91 530.18 185.45 530.18 185.45 384.73 221.82 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="40 530.18 185.45 530.18 185.45 675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="221.82 639.27 76.36 639.27 76.36 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="221.82" y1="493.82" x2="185.45" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="76.36" y1="639.27" x2="40" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="76.36 493.82 221.82 493.82 221.82 639.27 185.45 675.64 40 675.64 40 530.18 76.36 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="185.45 530.18 330.91 530.18 330.91 675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="367.27 639.27 221.82 639.27 221.82 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="367.27" y1="493.82" x2="330.91" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="221.82" y1="639.27" x2="185.45" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="221.82 493.82 367.27 493.82 367.27 639.27 330.91 675.64 185.45 675.64 185.45 530.18 221.82 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="330.91 384.73 476.36 384.73 476.36 530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="512.73 493.82 367.27 493.82 367.27 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="512.73" y1="348.36" x2="476.36" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="367.27" y1="493.82" x2="330.91" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="367.27 348.36 512.73 348.36 512.73 493.82 476.36 530.18 330.91 530.18 330.91 384.73 367.27 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="476.36 384.73 621.82 384.73 621.82 530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="658.18 493.82 512.73 493.82 512.73 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="658.18" y1="348.36" x2="621.82" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="512.73" y1="493.82" x2="476.36" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="512.73 348.36 658.18 348.36 658.18 493.82 621.82 530.18 476.36 530.18 476.36 384.73 512.73 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="330.91 530.18 476.36 530.18 476.36 675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="512.73 639.27 367.27 639.27 367.27 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="512.73" y1="493.82" x2="476.36" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="367.27" y1="639.27" x2="330.91" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="367.27 493.82 512.73 493.82 512.73 639.27 476.36 675.64 330.91 675.64 330.91 530.18 367.27 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="476.36 530.18 621.82 530.18 621.82 675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="658.18 639.27 512.73 639.27 512.73 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="658.18" y1="493.82" x2="621.82" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="512.73" y1="639.27" x2="476.36" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="512.73 493.82 658.18 493.82 658.18 639.27 621.82 675.64 476.36 675.64 476.36 530.18 512.73 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="621.82 384.73 767.27 384.73 767.27 530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="803.64 493.82 658.18 493.82 658.18 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="803.64" y1="348.36" x2="767.27" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="658.18" y1="493.82" x2="621.82" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="658.18 348.36 803.64 348.36 803.64 493.82 767.27 530.18 621.82 530.18 621.82 384.73 658.18 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="767.27 384.73 912.73 384.73 912.73 530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="949.09 493.82 803.64 493.82 803.64 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="949.09" y1="348.36" x2="912.73" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="803.64" y1="493.82" x2="767.27" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="803.64 348.36 949.09 348.36 949.09 493.82 912.73 530.18 767.27 530.18 767.27 384.73 803.64 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="621.82 530.18 767.27 530.18 767.27 675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="803.64 639.27 658.18 639.27 658.18 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="803.64" y1="493.82" x2="767.27" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="658.18" y1="639.27" x2="621.82" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="658.18 493.82 803.64 493.82 803.64 639.27 767.27 675.64 621.82 675.64 621.82 530.18 658.18 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="767.27 530.18 912.73 530.18 912.73 675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="949.09 639.27 803.64 639.27 803.64 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="949.09" y1="493.82" x2="912.73" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="803.64" y1="639.27" x2="767.27" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="803.64 493.82 949.09 493.82 949.09 639.27 912.73 675.64 767.27 675.64 767.27 530.18 803.64 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="912.73 384.73 1058.18 384.73 1058.18 530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="1094.55 493.82 949.09 493.82 949.09 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="1094.55" y1="348.36" x2="1058.18" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="949.09" y1="493.82" x2="912.73" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="949.09 348.36 1094.55 348.36 1094.55 493.82 1058.18 530.18 912.73 530.18 912.73 384.73 949.09 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="1058.18 384.73 1203.64 384.73 1203.64 530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="1240 493.82 1094.55 493.82 1094.55 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="1240" y1="348.36" x2="1203.64" y2="384.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="1094.55" y1="493.82" x2="1058.18" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="1094.55 348.36 1240 348.36 1240 493.82 1203.64 530.18 1058.18 530.18 1058.18 384.73 1094.55 348.36" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="912.73 530.18 1058.18 530.18 1058.18 675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="1094.55 639.27 949.09 639.27 949.09 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="1094.55" y1="493.82" x2="1058.18" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="949.09" y1="639.27" x2="912.73" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="949.09 493.82 1094.55 493.82 1094.55 639.27 1058.18 675.64 912.73 675.64 912.73 530.18 949.09 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="1058.18 530.18 1203.64 530.18 1203.64 675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="1240 639.27 1094.55 639.27 1094.55 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="1240" y1="493.82" x2="1203.64" y2="530.18" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="1094.55" y1="639.27" x2="1058.18" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="1094.55 493.82 1240 493.82 1240 639.27 1203.64 675.64 1058.18 675.64 1058.18 530.18 1094.55 493.82" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="40 675.64 185.45 675.64 185.45 821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="221.82 784.73 76.36 784.73 76.36 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="221.82" y1="639.27" x2="185.45" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="76.36" y1="784.73" x2="40" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="76.36 639.27 221.82 639.27 221.82 784.73 185.45 821.09 40 821.09 40 675.64 76.36 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="185.45 675.64 330.91 675.64 330.91 821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="367.27 784.73 221.82 784.73 221.82 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="367.27" y1="639.27" x2="330.91" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="221.82" y1="784.73" x2="185.45" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="221.82 639.27 367.27 639.27 367.27 784.73 330.91 821.09 185.45 821.09 185.45 675.64 221.82 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="40 821.09 185.45 821.09 185.45 966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="221.82 930.18 76.36 930.18 76.36 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="221.82" y1="784.73" x2="185.45" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="76.36" y1="930.18" x2="40" y2="966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="76.36 784.73 221.82 784.73 221.82 930.18 185.45 966.55 40 966.55 40 821.09 76.36 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="185.45 821.09 330.91 821.09 330.91 966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="367.27 930.18 221.82 930.18 221.82 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="367.27" y1="784.73" x2="330.91" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="221.82" y1="930.18" x2="185.45" y2="966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="221.82 784.73 367.27 784.73 367.27 930.18 330.91 966.55 185.45 966.55 185.45 821.09 221.82 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="330.91 675.64 476.36 675.64 476.36 821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="512.73 784.73 367.27 784.73 367.27 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="512.73" y1="639.27" x2="476.36" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="367.27" y1="784.73" x2="330.91" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="367.27 639.27 512.73 639.27 512.73 784.73 476.36 821.09 330.91 821.09 330.91 675.64 367.27 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="476.36 675.64 621.82 675.64 621.82 821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="658.18 784.73 512.73 784.73 512.73 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="658.18" y1="639.27" x2="621.82" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="512.73" y1="784.73" x2="476.36" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="512.73 639.27 658.18 639.27 658.18 784.73 621.82 821.09 476.36 821.09 476.36 675.64 512.73 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="330.91 821.09 476.36 821.09 476.36 966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="512.73 930.18 367.27 930.18 367.27 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="512.73" y1="784.73" x2="476.36" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="367.27" y1="930.18" x2="330.91" y2="966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="367.27 784.73 512.73 784.73 512.73 930.18 476.36 966.55 330.91 966.55 330.91 821.09 367.27 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="476.36 821.09 621.82 821.09 621.82 966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="658.18 930.18 512.73 930.18 512.73 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="658.18" y1="784.73" x2="621.82" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="512.73" y1="930.18" x2="476.36" y2="966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="512.73 784.73 658.18 784.73 658.18 930.18 621.82 966.55 476.36 966.55 476.36 821.09 512.73 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="621.82 675.64 767.27 675.64 767.27 821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="803.64 784.73 658.18 784.73 658.18 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="803.64" y1="639.27" x2="767.27" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="658.18" y1="784.73" x2="621.82" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="658.18 639.27 803.64 639.27 803.64 784.73 767.27 821.09 621.82 821.09 621.82 675.64 658.18 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="767.27 675.64 912.73 675.64 912.73 821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="949.09 784.73 803.64 784.73 803.64 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="949.09" y1="639.27" x2="912.73" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="803.64" y1="784.73" x2="767.27" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="803.64 639.27 949.09 639.27 949.09 784.73 912.73 821.09 767.27 821.09 767.27 675.64 803.64 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="621.82 821.09 767.27 821.09 767.27 966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="803.64 930.18 658.18 930.18 658.18 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="803.64" y1="784.73" x2="767.27" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="658.18" y1="930.18" x2="621.82" y2="966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="658.18 784.73 803.64 784.73 803.64 930.18 767.27 966.55 621.82 966.55 621.82 821.09 658.18 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="767.27 821.09 912.73 821.09 912.73 966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="949.09 930.18 803.64 930.18 803.64 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="949.09" y1="784.73" x2="912.73" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="803.64" y1="930.18" x2="767.27" y2="966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="803.64 784.73 949.09 784.73 949.09 930.18 912.73 966.55 767.27 966.55 767.27 821.09 803.64 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="912.73 675.64 1058.18 675.64 1058.18 821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="1094.55 784.73 949.09 784.73 949.09 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="1094.55" y1="639.27" x2="1058.18" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="949.09" y1="784.73" x2="912.73" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="949.09 639.27 1094.55 639.27 1094.55 784.73 1058.18 821.09 912.73 821.09 912.73 675.64 949.09 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="1058.18 675.64 1203.64 675.64 1203.64 821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="1240 784.73 1094.55 784.73 1094.55 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="1240" y1="639.27" x2="1203.64" y2="675.64" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="1094.55" y1="784.73" x2="1058.18" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="1094.55 639.27 1240 639.27 1240 784.73 1203.64 821.09 1058.18 821.09 1058.18 675.64 1094.55 639.27" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polyline points="912.73 821.09 1058.18 821.09 1058.18 966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="1094.55 930.18 949.09 930.18 949.09 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="1094.55" y1="784.73" x2="1058.18" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="949.09" y1="930.18" x2="912.73" y2="966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="949.09 784.73 1094.55 784.73 1094.55 930.18 1058.18 966.55 912.73 966.55 912.73 821.09 949.09 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+      <g>
+        <polyline points="1058.18 821.09 1203.64 821.09 1203.64 966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <polyline points="1240 930.18 1094.55 930.18 1094.55 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polyline>
+        <line x1="1240" y1="784.73" x2="1203.64" y2="821.09" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <line x1="1094.55" y1="930.18" x2="1058.18" y2="966.55" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></line>
+        <polygon points="1094.55 784.73 1240 784.73 1240 930.18 1203.64 966.55 1058.18 966.55 1058.18 821.09 1094.55 784.73" fill="none" stroke="#e5e5e5" stroke-miterlimit="10" vector-effect="non-scaling-stroke"></polygon>
+      </g>
+    </g>
+  </g>
+  
+</svg>
